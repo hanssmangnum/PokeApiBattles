@@ -32,3 +32,11 @@ Client: Contiene la lógica para realizar peticiones HTTP a la PokéAPI, permiti
 ui: Es la capa de presentación accesible para el usuario. Implementa un CardLayout para la navegación fluida entre pantallas (MenuPanel, BattlePanel, etc.), evitando el uso de ventanas o marcos emergentes (JDialog / JFrame adicionales).
 
 Nota sobre el desarrollo: Durante la realización del laboratorio se emplearon modelos de lenguaje (LLMs) como Gemini 1.5 Flash y Claude 3.5 Sonnet para el refactorizado de código y la maquetación de la interfaz de usuario. Aunque se trata de una versión beta orientada principalmente al funcionamiento lógico del sistema (pudiendo presentar detalles estéticos menores), se veló por ofrecer una experiencia funcional e intuitiva.
+
+Para probarlo: clonar el repo en el IDE y ejecutar el archivo main 
+
+Musica usada en el proyecto:
+https://youtu.be/Sp7rCyMsDbU?si=D4Cm6lNcWF2RInSx
+https://youtu.be/zAflSAaJ1bQ?si=pyMYPYo40il2_SMb
+https://youtu.be/1PDSagghFC4?si=TFVitC9f2ziEa4qH
+https://youtu.be/DrZ3XUWGzK0?si=ZuAfMG4fPI432cE5
